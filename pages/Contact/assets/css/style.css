@@ -9,7 +9,7 @@ html, body {
   background: #666666;
   font-family: 'Balsamiq Sans', sans-serif;
   display: flex;
-  flex-direction: column; /* Ensure body is flex column for correct alignment */
+  flex-direction: column;
 }
 
 header {
@@ -35,7 +35,7 @@ nav {
 nav ul {
   list-style-type: none;
   display: flex;
-  align-items: center; /* Align items vertically in nav */
+  align-items: center;
 }
 
 nav ul li {
@@ -54,7 +54,7 @@ nav ul li a {
   padding: 30px;
   border-radius: 20px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-  margin: 30px auto; /* Center container horizontally */
+  margin: 30px auto;
 }
 
 .container h2 {
