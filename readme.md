@@ -105,18 +105,6 @@ WD-ProjectName
 └─ index.html
 └─ readme.md
 ```
-
-## Resources
-
-| Title                   | Purpose                                                  | Link                          |
-|-------------------------|----------------------------------------------------------|-------------------------------|
-| Mikhail Agero Resume    | A detailed resume website showcasing skills and experience. | [Link](https://github.com/mikhailfeutech/WD-SW2-TC03) |
-| Pac-Man Header/Footer    | Gallery of Pac-Man themed headers and footers.          | [Link](https://github.com/mikhailfeutech/WD-SW3-TC03) |
-| Stick Man Feature Display | Interactive stick man themed web features.             | [Link](https://github.com/mikhailfeutech/WD-SW4-TC03) |
-
-
-## Resources
-
 ## Resources
 
 | Title                   | Purpose                                                  | Repository Link               |
