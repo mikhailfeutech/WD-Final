@@ -62,47 +62,43 @@ This portfolio showcases my projects, focusing on web development and design ski
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ```
 WD-Final
-└─ assets
-| └─ css
-| | └─ style.css
-| └─ js
-| └─ script.js
-└─ pages
-| └─ About
-| └─ assets
-| | └─ css
-| | | └─ style.css
-| | └─ img
-| | | └─ profile-picture.png
-| | └─ js
-| | └─ script.js
-└─ Contact
-   └─ assets
-      └─ css
-         └─ style.css
-      └─ js
-         └─ script.js
-└─ Experience
-   └─ assets
-      └─ css
-         └─ style.css
-      └─ js
-         └─ script.js
-└─ Project
-   └─ assets
-      └─ css
-         └─ style.css
-      └─ js
-         └─ script.js
-└─ Skills
-   └─ assets
-      └─ css
-         └─ style.css
-      └─ js
-         └─ script.js
-└─ index.html
-
-└─ index.html
+├─ assets
+│  ├─ css
+│  │  └─ style.css
+│  └─ js
+│     └─ script.js
+├─ pages
+│  ├─ About
+│  │  ├─ assets
+│  │  │  ├─ css
+│  │  │  │  └─ style.css
+│  │  │  └─ js
+│  │  │     └─ script.js
+│  ├─ Contact
+│  │  └─ assets
+│  │     ├─ css
+│  │     │  └─ style.css
+│  │     └─ js
+│  │        └─ script.js
+│  ├─ Experience
+│  │  └─ assets
+│  │     ├─ css
+│  │     │  └─ style.css
+│  │     └─ js
+│  │        └─ script.js
+│  ├─ Project
+│  │  └─ assets
+│  │     ├─ css
+│  │     │  └─ style.css
+│  │     └─ js
+│  │        └─ script.js
+│  └─ Skills
+│     └─ assets
+│        ├─ css
+│        │  └─ style.css
+│        └─ js
+│           └─ script.js
+├─ index.html
 └─ readme.md
 ```
 ## Resources
